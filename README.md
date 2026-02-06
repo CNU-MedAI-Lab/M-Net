@@ -1,6 +1,8 @@
 # M-Net: MRI Brain Tumor Sequential Segmentation Network via Mesh-Cast
 
-Considered for ICCV 2025
+Considered for ICCV 2025. Paper link: 
+
+https://openaccess.thecvf.com/content/ICCV2025/html/Lu_M-Net_MRI_Brain_Tumor_Sequential_Segmentation_Network_via_Mesh-Cast_ICCV_2025_paper.html
 
 This repository contains the official PyTorch implementation of M-Net, a mesh-cast based sequential segmentation framework for medical image segmentation, proposed in our ICCV 2025 submission.
 
