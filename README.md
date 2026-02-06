@@ -123,7 +123,7 @@ If you find this work useful, please consider citing our paper:
 ## 📬 Contact
 
 For questions or discussions, feel free to contact:
-
-Jiacheng Lu
-Capital Normal University
-📧 Email: jchengl@foxmail.com
+	
+	Jiacheng Lu
+	Capital Normal University
+	📧 Email: jchengl@foxmail.com
