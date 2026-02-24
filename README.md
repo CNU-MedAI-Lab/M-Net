@@ -116,7 +116,7 @@ If you find this work useful, please consider citing our paper:
 
 	@inproceedings{Lu2025MNet,
 	  title     = {M-Net: MRI Brain Tumor Sequential Segmentation Network via Mesh-Cast},
-	  author    = {Lu, Jiacheng and Ding, Hao and Zhang, Shuo and others},
+	  author    = {Lu, Jiacheng and Ding, Hui and Zhang, Shiyu and others},
 	  booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
 	  year      = {2025},
 	  pages     = {20116--20125}
